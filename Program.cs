@@ -12,7 +12,7 @@ Clear();
  
 string[] array = {"hello", "2", "world", ":-)"};
 
-WriteLine($"В исходном массиве [{String.Join(", ", array)}] количество строк, длина которых меньше либо равна трём символам {GetCount(array)} это {FindStringsInArray1(array)}");
+WriteLine($"В данном массиве [{String.Join(", ", array)}] количество строк, длина которых меньше либо равна трём символам {GetCount(array)} это {FindStringsInArray1(array)}");
 WriteLine();
 
 int GetCount(string[] ar)
