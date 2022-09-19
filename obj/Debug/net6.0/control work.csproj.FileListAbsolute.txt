@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\bin\Debug\net6.0\control work.exe
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\bin\Debug\net6.0\control work.deps.json
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\bin\Debug\net6.0\control work.runtimeconfig.json
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\bin\Debug\net6.0\control work.dll
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\bin\Debug\net6.0\control work.pdb
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.dll
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\refint\control work.dll
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.pdb
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\control work.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсы Тестировщик с нуля\control work\obj\Debug\net6.0\ref\control work.dll
